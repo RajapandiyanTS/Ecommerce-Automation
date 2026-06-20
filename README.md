@@ -38,7 +38,3 @@ The core objective is to ensure that search results accurately reflect user-appl
 *   [Language installed, e.g., Java JDK 11+ or Python 3.8+]
 *   Browser drivers (ChromeDriver, GeckoDriver) configured in the system PATH, or managed via a library like `WebDriverManager`.
 
-### Running the Tests
-1. Clone the repository:
-```bash
-   git clone [https://github.com/YourUsername/your-repo-name.git](https://github.com/YourUsername/your-repo-name.git)
